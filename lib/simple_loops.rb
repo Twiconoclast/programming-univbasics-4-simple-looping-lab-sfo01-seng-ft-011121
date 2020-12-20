@@ -18,7 +18,7 @@ def output_array(array)
   end  
 end
 
-def return_sting_array(array)
+def return_string_array(array)
   new_arr = []
   counter = 0
   
